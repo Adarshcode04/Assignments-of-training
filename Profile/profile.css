@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin:0;
     padding:0;
@@ -107,138 +106,11 @@ body{
 }
 
 /* Social Section */
-.Social{
+.Social-Media{
     display:flex;
     justify-content:center;
     gap:50px;
-    padding-bottom:30px;
+    padding-bottom:10px;
     font-size:35px;
 }
 
-
-
-=======
-* {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f8f9fb;
-  text-align: center; 
-  padding: 20px;
-}
-
-.boxes {
-  display: flex; 
-  align-items: stretch;
-  justify-content: center; 
-  border: 0px;
-  border-radius: 14px;
-}
-
-.plan-card {
-  background-color: white;
-  border: 1px solid #cccccc; 
-  border-radius: 14px;
-  flex: 1;
-  width: 300px;
-  margin: 14px; 
-  padding: 20px;
-  text-align: left; 
-}
-
-.plan1 {
-   background-color: #f3efff;
-  padding: 20px;
-  text-align: center;
-  border-radius: 14px;
-  min-height: 320px; 
-  display: flex;
-  flex-direction: column;
-}
-
-.plan-top {
-  background-color: #f3efff;
-  padding: 20px;
-  text-align: center;
-  border-radius: 14px;
-  min-height: 320px; 
-  display: flex;
-  flex-direction: column;
-}
-
-.plan-tag {
-  background-color: #fde047; 
-  display: inline-block;
-  padding: 5px 10px;
-  border: 0px;
-  border-radius: 14px;
-  font-weight: bold;
-  margin-bottom: 14px;
-}
-
-.title {
-  color: rgb(4, 37, 167);
-  font-weight: bold;
-}
-
-h1 {
-  margin-bottom: 40px;
-}
-
-h2 {
-  margin-bottom: 10px;
-}
-
-.price {
-  font-size: 30px;
-  font-weight: bold;
-  margin: 10px 0;
-}
-
-p {
-  color: #555555;
-  line-height: 1.5;
-  margin-bottom: 15px;
-}
-
-button {
-  background-color: rgb(21, 9, 191);
-  color: white;
-  width: 100%; 
-  padding: 12px;
-  border: none;
-  border-radius: 14px;
-  font-size: 16px;
-  font-weight: bold;
-}
-
-.features1 {
-  font-weight: bold;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-.features2 {
-  font-weight: bold;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-.features3 {
-  font-weight: bold;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-ul {
-  padding-left: 20px;
-}
-
-li {
-  color: #555555;
-  margin-bottom: 10px;
-}
->>>>>>> 9fb2ff94fb07c50bc527d1cecf2dbb76947b19c7
